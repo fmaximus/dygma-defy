@@ -26,14 +26,14 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
 
 I use the following color scheme to indicate different types of keys:
 
-- <span style="padding: .4em; background:rgb(0, 254, 24); color: #000000">Layers</span>
-- <span style="padding: .4em; background:rgb(255, 196, 0); color: #000000">Super keys</span>
-- <span style="padding: .4em; background:rgb(255, 255, 255); color: #000000">Modifiers</span>
-- <span style="padding: .4em; background:rgb(0, 254, 234); color: #000000">Standard keys</span>
-- <span style="padding: .4em; background:rgb(0, 52, 255)">Escape</span>
-- <span style="padding: .4em; background:rgb(87, 164, 255); color: #000000">Symbols</span>
-- <span style="padding: .4em; background:rgb(255, 9, 0); color: #000000">Delete/Shutdown</span>
-- <span style="padding: .4em; background:rgb(152, 51, 107); color: #000000">Backspace/Sleep</span>
+- `rgb(0, 254, 24)`: ${\textsf{\color{rgb(0, 254, 24)}Layers}}$
+- `rgb(255, 196, 0)`: ${\textsf{\color{rgb(255, 196, 0)}Super keys}}$
+- `rgb(255, 255, 255)`: ${\textsf{\color{rgb(255, 255, 255)}Modifiers}}$
+- `rgb(0, 254, 234)`: ${\textsf{\color{rgb(0, 254, 234)}Standard keys}}$
+- `rgb(0, 52, 255)`: ${\textsf{\color{rgb(0, 52, 255)}Escape}}$
+- `rgb(87, 164, 255)`: ${\textsf{\color{rgb(87, 164, 255)}Symbols}}$
+- `rgb(255, 9, 0)`: ${\textsf{\color{rgb(255, 9, 0)}Delete/Shutdown}}$
+- `rgb(152, 51, 107)`: ${\textsf{\color{rgb(152, 51, 107)}Backspace/Sleep}}$
 
 ---
 
@@ -60,7 +60,7 @@ I use the following color scheme to indicate different types of keys:
 
 ### Layer 1: Base
 
-![layer_1](./img/l1.png)
+![layer_1](./img/L1.png)
 
 - Base layer
   - Colemak DH matrix layout with some modifications

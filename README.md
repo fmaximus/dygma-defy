@@ -38,21 +38,15 @@ I use the following color scheme to indicate different types of keys:
 ---
 
 ## ![](./img/iconThunderSm.svg) Super keys
-- Tab
-   - Tap: Tab
-   - Hold: Shift + Tab
-   - Double tap: Alt + Tab
-- Copy
-   - Tap: Ctrl + c
-   - Double tap: Ctrl + x
-   - Hold: Ctrl + v
-   - Tap + Hold: Ctrl + Shift + v
-- Gaming i
-    - Tap: i (inventory)
-    - Hold: Ctrl + i (invoke )
-- Volume down
-    - Tap: Volume down
-    - Hold: Mute 
+
+| Name            | Tap                      | Hold                                     | Double tap                      | Tap + Hold                                        |
+|:----------------|:-------------------------|:-----------------------------------------|:--------------------------------|:--------------------------------------------------|
+| **Tab**         | <kbd>Tab</kbd>           | <kbd>Shift</kbd> + <kbd>Tab</kbd>        | <kbd>Alt</kbd> + <kbd>Tab</kbd> | 
+| **Copy**        | <kbd>Ctrl</kbd> + <kbd>C | <kbd>Ctrl</kbd> + <kbd>V</kbd>           | <kbd>Ctrl</kbd> + <kbd>X</kbd>  | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> |
+| **Gaming i**    | <kbd>I</kbd> (inventory) | <kbd>Ctrl</kbd> + <kbd>I</kbd> (invoke ) |
+| **Volume down** | Volume down              | Mute                                     |
+
+---
 
 ## ![](./img/iconRobotSm.svg) Macros
 

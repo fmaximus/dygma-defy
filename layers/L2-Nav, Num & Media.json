@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "Programming"
     },
     {
       "id": 7,
@@ -57,7 +57,14 @@
   "keymap": [
     {
       "keyCode": 20866,
-      "label": "SLEEP",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "verbose": "Sleep"
     },
     {
@@ -87,10 +94,17 @@
       "label": "PAUSE"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17154,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Toggle"
     },
     {
       "keyCode": 65535,
@@ -145,7 +159,14 @@
     },
     {
       "keyCode": 20865,
-      "label": "SHUT DWN",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "verbose": "Shut Down"
     },
     {
@@ -170,10 +191,17 @@
       "verbose": "Page Up"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17153,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Previous"
     },
     {
       "keyCode": 65535,
@@ -226,10 +254,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
       "keyCode": 76,
@@ -253,10 +280,17 @@
       "verbose": "Page Down"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17152,
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "LED",
+      "verbose": "Next"
     },
     {
       "keyCode": 65535,
@@ -284,17 +318,41 @@
     {
       "keyCode": 49517,
       "label": "4",
-      "extraLabel": "SHIFT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49262,
       "label": "5",
-      "extraLabel": "CTRL/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "control",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 49775,
       "label": "6",
-      "extraLabel": "ALT/"
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "alt",
+          "size": "sm"
+        },
+        "_owner": null
+      }
     },
     {
       "keyCode": 231,
@@ -308,20 +366,36 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
     },
     {
       "keyCode": 23664,
-      "label": "Bright -",
-      "extraLabel": "Display"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "Display",
+      "verbose": "Bright -"
     },
     {
       "keyCode": 23663,
-      "label": "Bright +",
-      "extraLabel": "Display"
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "extraLabel": "Display",
+      "verbose": "Bright +"
     },
     {
       "keyCode": 53983,
@@ -330,7 +404,14 @@
     },
     {
       "keyCode": 23785,
-      "label": "🔊",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Volume up"
     },
@@ -437,19 +518,40 @@
     },
     {
       "keyCode": 22709,
-      "label": "⏭",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Next track"
     },
     {
       "keyCode": 22710,
-      "label": "⏮",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Prev. track"
     },
     {
       "keyCode": 22733,
-      "label": "⏯",
+      "label": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "size": "sm"
+        },
+        "_owner": null
+      },
       "extraLabel": "",
       "verbose": "Play / pause"
     },
@@ -476,8 +578,16 @@
     },
     {
       "keyCode": 17492,
-      "label": "1",
-      "extraLabel": "LOCK"
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 1
+        },
+        "_owner": null
+      }
     }
   ],
   "colormap": [
@@ -487,21 +597,21 @@
     4,
     15,
     4,
-    15,
+    8,
     11,
     7,
     7,
     3,
     7,
     7,
-    15,
+    8,
     15,
     7,
     3,
     3,
     3,
     7,
-    15,
+    8,
     15,
     10,
     10,
@@ -518,9 +628,9 @@
     3,
     15,
     15,
-    14,
-    14,
-    14,
+    0,
+    0,
+    0,
     15,
     15,
     15,
@@ -528,12 +638,12 @@
     3,
     3,
     3,
-    14,
+    0,
     15,
     15,
     2,
     3,
-    3,
+    14,
     3,
     3,
     15,
@@ -542,9 +652,9 @@
     3,
     3,
     3,
-    14,
+    0,
     1,
-    14,
+    0,
     3,
     13,
     5,
@@ -746,10 +856,10 @@
       "rgb": "rgb(152, 51, 107)"
     },
     {
-      "r": 210,
-      "g": 152,
-      "b": 0,
-      "rgb": "rgb(210, 152, 0)"
+      "r": 255,
+      "g": 246,
+      "b": 117,
+      "rgb": "rgb(255, 246, 117)"
     },
     {
       "r": 0,

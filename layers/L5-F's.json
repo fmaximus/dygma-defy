@@ -11,7 +11,7 @@
       }
     ]
   },
-  "language": "english",
+  "language": "en-US",
   "layerNames": [
     {
       "id": 0,
@@ -116,10 +116,182 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 110,
+      "label": "F19"
+    },
+    {
+      "keyCode": 111,
+      "label": "F20"
+    },
+    {
+      "keyCode": 112,
+      "label": "F21"
+    },
+    {
+      "keyCode": 113,
+      "label": "F22"
+    },
+    {
+      "keyCode": 114,
+      "label": "F23"
+    },
+    {
+      "keyCode": 115,
+      "label": "F24"
+    },
+    {
       "keyCode": 65535,
       "label": "",
       "extraLabel": "TRANS",
       "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 104,
+      "label": "F13"
+    },
+    {
+      "keyCode": 105,
+      "label": "F14"
+    },
+    {
+      "keyCode": 106,
+      "label": "F15"
+    },
+    {
+      "keyCode": 107,
+      "label": "F16"
+    },
+    {
+      "keyCode": 108,
+      "label": "F17"
+    },
+    {
+      "keyCode": 109,
+      "label": "F18"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 227,
+      "label": "LEFT WIN",
+      "verbose": "Left Windows"
+    },
+    {
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
+    },
+    {
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 64,
+      "label": "F7"
+    },
+    {
+      "keyCode": 65,
+      "label": "F8"
+    },
+    {
+      "keyCode": 66,
+      "label": "F9"
     },
     {
       "keyCode": 67,
@@ -194,202 +366,6 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 64,
-      "label": "F7"
-    },
-    {
-      "keyCode": 65,
-      "label": "F8"
-    },
-    {
-      "keyCode": 66,
-      "label": "F9"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 227,
-      "label": "LEFT WIN",
-      "verbose": "Left Windows"
-    },
-    {
-      "keyCode": 226,
-      "label": "LEFT ALT",
-      "verbose": "Left Alt"
-    },
-    {
-      "keyCode": 224,
-      "label": "CTRL",
-      "extraLabel": "LEFT",
-      "verbose": "Left Control"
-    },
-    {
-      "keyCode": 225,
-      "label": "SHIFT",
-      "extraLabel": "LEFT",
-      "verbose": "Left Shift"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 61,
-      "label": "F4"
-    },
-    {
-      "keyCode": 62,
-      "label": "F5"
-    },
-    {
-      "keyCode": 63,
-      "label": "F6"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
-    },
-    {
       "keyCode": 58,
       "label": "F1"
     },
@@ -402,16 +378,16 @@
       "label": "F3"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 61,
+      "label": "F4"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 62,
+      "label": "F5"
+    },
+    {
+      "keyCode": 63,
+      "label": "F6"
     },
     {
       "keyCode": 65535,
@@ -546,33 +522,33 @@
     12,
     15,
     15,
-    15,
-    15,
+    4,
+    4,
+    4,
     4,
     4,
     4,
     15,
-    15,
-    15,
-    15,
+    4,
+    4,
+    4,
     4,
     4,
     4,
     15,
-    15,
-    15,
-    15,
     4,
-    5,
     4,
-    15,
-    15,
-    15,
-    15,
+    4,
     4,
     4,
     4,
     15,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     15,
     15,
     15,
@@ -776,10 +752,10 @@
       "rgb": "rgb(152, 51, 107)"
     },
     {
-      "r": 210,
-      "g": 152,
-      "b": 0,
-      "rgb": "rgb(210, 152, 0)"
+      "r": 255,
+      "g": 246,
+      "b": 117,
+      "rgb": "rgb(255, 246, 117)"
     },
     {
       "r": 0,
